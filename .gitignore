@@ -1,3 +1,7 @@
+# local data
+private/
+nbx_file_editor.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
